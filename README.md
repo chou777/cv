@@ -94,7 +94,6 @@ Education
 ### University of Sheffield
 **BSc with Honours in Biochemistry (1st class) (2007&mdash; 2010)**
 
-  - Main subjects: Molecular Immunology, Biochemical Basis of Human Disease, Virus Infections of Humans, Biochemical signalling, Molecular Physiology, Functional Genomics, Metabolism: Control and Manipulation, Gene Expression and Regulation, Micro-organisms in Human Disease, Macromolecular structure and function, Microbial Growth, Structure and Function/Genetics.
   - Final year laboratory project: “Signal transduction in cells of mast cell lineage in response to allergens”.
   - Dissertation: “The resurgence in monoclonal antibodies as therapeutics”.
 
