@@ -131,6 +131,7 @@ How to reach me
 - Email: [vaidas_mykolaitis@yahoo.com]
 - Phone: +44 7576 441118
 - [Github]
+- [Stackoverflow]
 - [LinkedIn]
 - [Twitter]
 - [Blog]
@@ -143,6 +144,7 @@ How to reach me
   
   [vaidas_mykolaitis@yahoo.com]:mailto:vaidas_mykolaitis@yahoo.com
   [GitHub]:https://github.com/codepreneur
+  [Stackoverflow]:http://stackoverflow.com/users/2097095/codepreneur
   [LinkedIn]:http://uk.linkedin.com/in/codepreneur
   [Twitter]:http://twitter.com/vmlifestyle
   [Blog]:http://www.codepreneur.io
