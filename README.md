@@ -24,6 +24,10 @@ After teaching myself the basics, building some scrapers and playing with APIs I
   - TDD, BDD, Scrum
   - Rapid prototyping, creating MVPs
   - Firebase, Pusher
+  - Ember.js
+  - Node.js
+  - Sails.js
+  - Keystone.js
   - Object­ oriented principles and design
   - Pair programming
   - Ruby (2.1.1)
@@ -37,14 +41,21 @@ After teaching myself the basics, building some scrapers and playing with APIs I
   - Version control with Git and Github
   - Rapid deployment to Heroku
   - JavaScript, jQuery, AJAX
-  - Angular JS, D3.js
+  - Angular.js, D3.js
   - Websockets
-  - HTML5, CSS3, Bootstrap 3
+  - HTML5, CSS3, Bootstrap 3, Foundation
   - Precompiled languages like CoffeeScript, HAML and SASS
   - API integration with Twilio, Stripe, Mailgun, Sendgrid, Google Maps, Traffic for London
 
 Experience
 ----------
+
+### Artificial Labs
+**Developer**
+**(Sep 2014&mdash;Present)**
+
+  - Full Stack JavaScript (Ember.js, D3.js, Sails.js, Keystone.js, Node.js) 
+
 
 ### Starcom Media Vest Group
 **SEO/Growth Hacking**
@@ -139,6 +150,8 @@ How to reach me
   [Ffol.io]:https://github.com/codepreneur/folioapp
   [Instagram]:https://github.com/codepreneur/instagram
   [Airport]:https://github.com/codepreneur/airport
+  [Decisions]:https://github.com/codepreneur/decisions
+  [Protect]:https://github.com/codepreneur/protect
 
   [Makers Academy]:http://www.makersacademy.com
   
