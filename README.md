@@ -9,6 +9,7 @@ Code examples
 | [Decisions] | [Protect] | [Fluential] |
 |:------------ |:----------- |:---------------------------------- |
 | Ember.js frontend, Firebase backend + Android and iOS apps | Ember.js frontend, Node.js/Sails.js backend | Angular.js + Youtube API side project |
+
 | [Ffol.io] | [Instagram] | [Airport] |
 |:------------ |:----------- |:---------------------------------- |
 | Thoroughly test-driven final project for Makers Academy with Ruby on Rails backend and Angular JS frontend | An Instagram clone built using Rails, incorporating websockets, angular js, stripe, S3 | Pure Ruby project tested with RSpec focusing on code readability |
