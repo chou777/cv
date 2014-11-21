@@ -149,6 +149,7 @@ How to reach me
 - [Stackoverflow]
 - [LinkedIn]
 - [Twitter]
+- [GooglePlus]
 - [Blog]
 
   [Ffol.io]:https://github.com/codepreneur/folioapp
@@ -162,7 +163,8 @@ How to reach me
   
   [vaidas_mykolaitis@yahoo.com]:mailto:vaidas_mykolaitis@yahoo.com
   [GitHub]:https://github.com/codepreneur
-  [Stackoverflow]:http://stackoverflow.com/users/2097095/codepreneur
-  [LinkedIn]:http://uk.linkedin.com/in/codepreneur
-  [Twitter]:http://twitter.com/vmlifestyle
+  [Stackoverflow]:https://stackoverflow.com/users/2097095/codepreneur
+  [LinkedIn]:https://uk.linkedin.com/in/codepreneur
+  [Twitter]:https://twitter.com/vmlifestyle
+  [GooglePlus]:https://plus.google.com/103475761288679475987/posts
   [Blog]:http://www.codepreneur.io
