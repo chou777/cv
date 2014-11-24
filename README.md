@@ -12,7 +12,7 @@ Code examples
 
 | [Ffol.io] | [Instagram] | [Place Kitten] |
 |:------------ |:----------- |:---------------------------------- |
-| Thoroughly test-driven final project for Makers Academy with Ruby on Rails backend and Angular JS frontend | An Instagram clone built using Rails, incorporating websockets, angular js, stripe, S3 | My first ever ember-cli addon |
+| Thoroughly test-driven final project for Makers Academy with Ruby on Rails backend and Angular JS frontend | An Instagram clone built using Rails, incorporating websockets, angular js, stripe, S3 | My first ever ember-cli addon to get a placeholder image |
 
 Web development
 ---------------
