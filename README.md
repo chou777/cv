@@ -10,9 +10,9 @@ Code examples
 |:------------ |:----------- |:---------------------------------- |
 | Ember.js frontend, Firebase backend + Android and iOS apps | Ember.js frontend, Node.js/Sails.js backend | Angular.js + Youtube API side project |
 
-| [Ffol.io] | [Instagram] | [Airport] |
+| [Ffol.io] | [Instagram] | [Place Kitten] |
 |:------------ |:----------- |:---------------------------------- |
-| Thoroughly test-driven final project for Makers Academy with Ruby on Rails backend and Angular JS frontend | An Instagram clone built using Rails, incorporating websockets, angular js, stripe, S3 | Pure Ruby project tested with RSpec focusing on code readability |
+| Thoroughly test-driven final project for Makers Academy with Ruby on Rails backend and Angular JS frontend | An Instagram clone built using Rails, incorporating websockets, angular js, stripe, S3 | My first ever ember-cli addon |
 
 Web development
 ---------------
@@ -158,6 +158,7 @@ How to reach me
   [Decisions]:https://github.com/codepreneur/decisions
   [Protect]:https://github.com/codepreneur/protect
   [Fluential]:https://github.com/codepreneur/fluential
+  [Place Kitten]:https://github.com/codepreneur/ember-cli-place-kitten
 
   [Makers Academy]:http://www.makersacademy.com
   
