@@ -54,6 +54,12 @@ After teaching myself the basics, building some scrapers and playing with APIs I
 Experience
 ----------
 
+### We Are Everywhere
+**Developer**
+**(Jan 2015&mdash;Present)**
+
+  - Full Stack JavaScript (Ember.js, D3.js, Sails.js, Keystone.js, Node.js) 
+
 ### Artificial Labs
 **Developer**
 **(Sep 2014&mdash;Present)**
