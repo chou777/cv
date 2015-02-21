@@ -172,6 +172,6 @@ How to reach me
   [GitHub]:https://github.com/codepreneur
   [Stackoverflow]:https://stackoverflow.com/users/2097095/codepreneur
   [LinkedIn]:https://uk.linkedin.com/in/codepreneur
-  [Twitter]:https://twitter.com/vmlifestyle
+  [Twitter]:https://twitter.com/codepreneurr
   [GooglePlus]:https://plus.google.com/103475761288679475987/posts
   [Blog]:http://www.codepreneur.io
